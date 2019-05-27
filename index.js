@@ -20,8 +20,8 @@ publicServer.get('/', handler);
 
 const options = {
   name: 'emelyanovtv',
-  // key: fs.readFileSync('privkey.pem'),
-  // cert: fs.readFileSync('cert.pem'),
+  key: fs.readFileSync('privkey.pem'),
+  cert: fs.readFileSync('cert.pem'),
 };
 
 https.createServer(options, publicServer).listen(443, () => {
