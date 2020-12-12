@@ -5,4 +5,4 @@
 
 ### Really into 
 
-* Node.js and Golang.
+* Node.js and Golang software development. 
