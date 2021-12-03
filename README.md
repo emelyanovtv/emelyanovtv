@@ -1,7 +1,7 @@
 ### About me
 
 * Currently at DevOps position. 
-* I live in Tallinn, Estonia
+* I live in Moscow, Russia
 
 ### Really into 
 
