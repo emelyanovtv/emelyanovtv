@@ -1,8 +1,8 @@
 ### About me
 
-* Currently at DevOps position. 
+* Currently at DevOps position.
 * I live in Moscow, Russia
 
-### Really into 
+### Really into
 
-* Node.js and Golang software development. 
+* Node.js and Golang software development.
